@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="12"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <SaveOnlyProjectUnits Value="True"/>
+        <UseDesignTimePackages Value="True"/>
+        <CompatibilityMode Value="True"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <Title Value="SMART"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <XPManifest>
+        <DpiAware Value="True"/>
+        <ExecutionLevel Value="highestAvailable"/>
+        <LongPathAware Value="True"/>
+        <AnsiUTF8 Value="True"/>
+        <TextName Value="SMART by Sino"/>
+        <TextDesc Value="A study essential which helps students organise their academic life and provides them with tips and motivation that will help better their grades."/>
+      </XPManifest>
+      <Icon Value="0"/>
+      <Resources Count="43">
+        <Resource_0 FileName="1.png" Type="RCDATA" ResourceName="1"/>
+        <Resource_1 FileName="2.png" Type="RCDATA" ResourceName="2"/>
+        <Resource_2 FileName="3.png" Type="RCDATA" ResourceName="3"/>
+        <Resource_3 FileName="4.png" Type="RCDATA" ResourceName="4"/>
+        <Resource_4 FileName="smart.ico" Type="ICON" ResourceName="SMART"/>
+        <Resource_5 FileName="smart-high-resolution-logo-transparent.png" Type="RCDATA" ResourceName="SMART-HIGH-RESOLUTION-LOGO-TRANSPARENT"/>
+        <Resource_6 FileName="t1.png" Type="RCDATA" ResourceName="T1"/>
+        <Resource_7 FileName="t2.png" Type="RCDATA" ResourceName="T2"/>
+        <Resource_8 FileName="t3.png" Type="RCDATA" ResourceName="T3"/>
+        <Resource_9 FileName="t4.png" Type="RCDATA" ResourceName="T4"/>
+        <Resource_10 FileName="5.png" Type="RCDATA" ResourceName="5"/>
+        <Resource_11 FileName="6.png" Type="RCDATA" ResourceName="6"/>
+        <Resource_12 FileName="7.png" Type="RCDATA" ResourceName="7"/>
+        <Resource_13 FileName="8.png" Type="RCDATA" ResourceName="8"/>
+        <Resource_14 FileName="9.png" Type="RCDATA" ResourceName="9"/>
+        <Resource_15 FileName="10.png" Type="RCDATA" ResourceName="10"/>
+        <Resource_16 FileName="11.png" Type="RCDATA" ResourceName="11"/>
+        <Resource_17 FileName="12.png" Type="RCDATA" ResourceName="12"/>
+        <Resource_18 FileName="13.png" Type="RCDATA" ResourceName="13"/>
+        <Resource_19 FileName="14.png" Type="RCDATA" ResourceName="14"/>
+        <Resource_20 FileName="15.png" Type="RCDATA" ResourceName="15"/>
+        <Resource_21 FileName="16.png" Type="RCDATA" ResourceName="16"/>
+        <Resource_22 FileName="17.png" Type="RCDATA" ResourceName="17"/>
+        <Resource_23 FileName="18.png" Type="RCDATA" ResourceName="18"/>
+        <Resource_24 FileName="19.png" Type="RCDATA" ResourceName="19"/>
+        <Resource_25 FileName="20.png" Type="RCDATA" ResourceName="20"/>
+        <Resource_26 FileName="21.png" Type="RCDATA" ResourceName="21"/>
+        <Resource_27 FileName="22.png" Type="RCDATA" ResourceName="22"/>
+        <Resource_28 FileName="M7.png" Type="RCDATA" ResourceName="M7"/>
+        <Resource_29 FileName="M6.png" Type="RCDATA" ResourceName="M6"/>
+        <Resource_30 FileName="M5.png" Type="RCDATA" ResourceName="M5"/>
+        <Resource_31 FileName="M4.png" Type="RCDATA" ResourceName="M4"/>
+        <Resource_32 FileName="M3.png" Type="RCDATA" ResourceName="M3"/>
+        <Resource_33 FileName="M2.png" Type="RCDATA" ResourceName="M2"/>
+        <Resource_34 FileName="M1.png" Type="RCDATA" ResourceName="M1"/>
+        <Resource_35 FileName="fey5.png" Type="RCDATA" ResourceName="FEY5"/>
+        <Resource_36 FileName="fey4.png" Type="RCDATA" ResourceName="FEY4"/>
+        <Resource_37 FileName="fey3.png" Type="RCDATA" ResourceName="FEY3"/>
+        <Resource_38 FileName="fey2.png" Type="RCDATA" ResourceName="FEY2"/>
+        <Resource_39 FileName="fey1.png" Type="RCDATA" ResourceName="FEY1"/>
+        <Resource_40 FileName="Weekly_Study_Planner.png" Type="RCDATA" ResourceName="WEEKLY_STUDY_PLANNER"/>
+        <Resource_41 FileName="Grade_Tracker.png" Type="RCDATA" ResourceName="GRADE_TRACKER"/>
+        <Resource_42 FileName="Weekly_Planner.jpeg" Type="RCDATA" ResourceName="WEEKLY_PLANNER"/>
+      </Resources>
+    </General>
+    <i18n>
+      <EnableI18N Value="True"/>
+    </i18n>
+    <VersionInfo>
+      <MajorVersionNr Value="1"/>
+      <StringTable CompanyName="Sino&apos;s Apps"/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+    </RunParams>
+    <RequiredPackages Count="11">
+      <Item1>
+        <PackageName Value="MPlayerControlLaz"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="bgrapascalscriptcomponent"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="viewerpackage"/>
+      </Item3>
+      <Item4>
+        <PackageName Value="pl_ExControls"/>
+      </Item4>
+      <Item5>
+        <PackageName Value="FCL"/>
+      </Item5>
+      <Item6>
+        <PackageName Value="TurboPowerIPro"/>
+      </Item6>
+      <Item7>
+        <PackageName Value="TAChartBgra"/>
+      </Item7>
+      <Item8>
+        <PackageName Value="TAChartLazarusPkg"/>
+      </Item8>
+      <Item9>
+        <PackageName Value="SQLDBLaz"/>
+      </Item9>
+      <Item10>
+        <PackageName Value="bgracontrols"/>
+      </Item10>
+      <Item11>
+        <PackageName Value="LCL"/>
+      </Item11>
+    </RequiredPackages>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="smart.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SMART"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uapp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uApp"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="umain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uMain"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="info.txt"/>
+        <IsPartOfProject Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="name.txt"/>
+        <IsPartOfProject Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="goals.txt"/>
+        <IsPartOfProject Value="True"/>
+      </Unit5>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="smart"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <CodeGeneration>
+      <Optimizations>
+        <OptimizationLevel Value="0"/>
+      </Optimizations>
+    </CodeGeneration>
+    <Linking>
+      <Debugging>
+        <RunWithoutDebug Value="True"/>
+        <DebugInfoType Value="dsDwarf3"/>
+      </Debugging>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+    <Other>
+      <Verbosity>
+        <ShowExecInfo Value="True"/>
+      </Verbosity>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

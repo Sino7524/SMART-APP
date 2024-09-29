@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="smart.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SMART"/>
+        <CursorPos Y="24"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uapp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uApp"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="28"/>
+        <CursorPos X="52" Y="28"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="umain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uMain"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="200"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="info.txt"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3"/>
+        <UsageCount Value="201"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="name.txt"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3"/>
+        <UsageCount Value="201"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="goals.txt"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="23"/>
+        <UsageCount Value="203"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit5>
+    </Units>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

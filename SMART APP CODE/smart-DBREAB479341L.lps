@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="smart.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SMART"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="7"/>
+        <CursorPos Y="25"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uapp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uApp"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="958"/>
+        <CursorPos X="6" Y="970"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uMain"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="frmapp.pas"/>
+        <ComponentName Value="frmApplication"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frmApp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="12"/>
+        <UsageCount Value="2"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\bgracontrols-2.2\bgracontrols-2.2\bgravirtualscreen.pas"/>
+        <UnitName Value="BGRAVirtualScreen"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\bgracontrols-2.2\bgracontrols-2.2\DataType.inc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\bgracontrols-2.2\bgracontrols-2.2\bcstylesform.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="218"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\bgracontrols-2.2\bgracontrols-2.2\bgrabitmappack.pas"/>
+        <UnitName Value="BGRABitmapPack"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="11"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\bgracontrols-2.2\bgracontrols-2.2\bgraanimatedgif.pas"/>
+        <UnitName Value="BGRAAnimatedGif"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="26" Y="21"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\bgracontrols-2.2\bgracontrols-2.2\bceffect.pas"/>
+        <UnitName Value="BCEffect"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="29"/>
+        <CursorPos X="13" Y="64"/>
+        <UsageCount Value="3"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\bgracontrols-2.2\bgracontrols-2.2\bcfilters.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="760"/>
+        <CursorPos X="13" Y="149"/>
+        <UsageCount Value="3"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\bgracontrols-2.2\bgracontrols-2.2\bcgamegrid.pas"/>
+        <UnitName Value="BCGameGrid"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="16" Y="165"/>
+        <UsageCount Value="3"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\lazarus\lazarus\zcore.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="10"/>
+        <UsageCount Value="3"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\sources\ZCore.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="2" Y="54"/>
+        <UsageCount Value="3"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\sources\ZClasses.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="22" Y="84"/>
+        <UsageCount Value="3"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\sources\ZCore.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="3" Y="54"/>
+        <UsageCount Value="3"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\sources\ZClasses.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="220"/>
+        <CursorPos X="3" Y="231"/>
+        <UsageCount Value="3"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Downloads\sources\zparsesql.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="11"/>
+        <UsageCount Value="3"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\sources\zplain.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="5" Y="10"/>
+        <UsageCount Value="3"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="499" Column="3" TopLine="499"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="990" Column="3" TopLine="981"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="989" Column="3" TopLine="980"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="990" Column="3" TopLine="981"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="989" Column="3" TopLine="980"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="694" Column="21" TopLine="692"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="699" Column="12" TopLine="692"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="83" Column="16" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="699" Column="16" TopLine="694"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="922" Column="27" TopLine="916"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="923" Column="24" TopLine="916"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="694" Column="17" TopLine="691"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="723" Column="16" TopLine="711"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="721" Column="14" TopLine="711"/>
+      </Position>
+      <Position>
+        <Filename Value="smart.lpr"/>
+        <Caret Line="25" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="721" Column="14" TopLine="711"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="720" Column="30" TopLine="656"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="727" Column="30" TopLine="712"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="279" Column="20" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="953" Column="23" TopLine="941"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="699" Column="32" TopLine="695"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="956" TopLine="948"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="704" Column="3" TopLine="702"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="702" Column="14" TopLine="695"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="708" Column="3" TopLine="697"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="965" Column="2" TopLine="957"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="714" Column="3" TopLine="712"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="698" Column="15" TopLine="695"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="279" Column="20" TopLine="269"/>
+      </Position>
+      <Position>
+        <Filename Value="uapp.pas"/>
+        <Caret Line="972" Column="3" TopLine="958"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

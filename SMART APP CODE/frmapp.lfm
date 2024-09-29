@@ -1,0 +1,11 @@
+object frmApplication: TfrmApplication
+  Left = 862
+  Height = 240
+  Top = 305
+  Width = 320
+  Caption = 'frmApplication'
+  DesignTimePPI = 144
+  LCLVersion = '3.0.0.1'
+  Visible = True
+  WindowState = wsMaximized
+end
